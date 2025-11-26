@@ -6,6 +6,9 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 
 ## Danh sách
 
-| Số  | Tên bài | Trạng thái | Ngôn ngữ |
-| --- | ------- | ---------- | -------- |
-|     |         |            |          |
+✅: Đã pass
+🔄: Đã làm nhưng chưa pass
+
+| Số  | Tên bài | Trạng thái | Ngôn ngữ               |
+| --- | ------- | ---------- | ---------------------- |
+| 1   | Two Sum | ✅         | JavaScript, TypeScript |
