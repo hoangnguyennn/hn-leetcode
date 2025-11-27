@@ -7,8 +7,10 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 ## Danh sách
 
 ✅: Đã pass
+
 🔄: Đã làm nhưng chưa pass
 
-| Số  | Tên bài | Trạng thái | Ngôn ngữ               |
-| --- | ------- | ---------- | ---------------------- |
-| 1   | Two Sum | ✅         | JavaScript, TypeScript |
+| Số  | Tên bài         | Trạng thái | Ngôn ngữ               |
+| --- | --------------- | ---------- | ---------------------- |
+| 1   | Two Sum         | ✅         | JavaScript, TypeScript |
+| 2   | Add Two Numbers | ✅         | JavaScript, TypeScript |
