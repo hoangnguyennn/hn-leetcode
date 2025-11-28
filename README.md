@@ -10,7 +10,8 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 
 🔄: Đã làm nhưng chưa pass
 
-| Số  | Tên bài         | Trạng thái | Ngôn ngữ               |
-| --- | --------------- | ---------- | ---------------------- |
-| 1   | Two Sum         | ✅         | JavaScript, TypeScript |
-| 2   | Add Two Numbers | ✅         | JavaScript, TypeScript |
+| Số  | Tên bài                                        | Trạng thái | Ngôn ngữ               |
+| --- | ---------------------------------------------- | ---------- | ---------------------- |
+| 1   | Two Sum                                        | ✅         | JavaScript, TypeScript |
+| 2   | Add Two Numbers                                | ✅         | JavaScript, TypeScript |
+| 3   | Longest Substring Without Repeating Characters | ✅         | JavaScript, TypeScript |
