@@ -19,3 +19,4 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 5   | Longest Palindromic Substring                  | ✅         | JavaScript, TypeScript |
 | 11  | Container With Most Water                      | ✅         | JavaScript, TypeScript |
 | 20  | Valid Parentheses                              | ✅         | JavaScript, TypeScript |
+| 21  | Merge Two Sorted Lists                         | ✅         | JavaScript, TypeScript |
