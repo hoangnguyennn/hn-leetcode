@@ -24,3 +24,4 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 27  | Remove Element                                          | ✅         | JavaScript, TypeScript | Dễ         | O(n)     | O(1)     |
 | 31  | Next Permutation                                        | ✅         | JavaScript, TypeScript | Trung bình | O(n)     | O(1)     |
 | 34  | Find First and Last Position of Element in Sorted Array | ✅         | JavaScript, TypeScript | Trung bình | O(log n) | O(1)     |
+| 35  | Search Insert Position                                  | ✅         | JavaScript, TypeScript | Trung bình | O(log n) | O(1)     |
