@@ -27,3 +27,4 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 35  | Search Insert Position                                  | ✅         | JavaScript, TypeScript |
 | 36  | Valid Sudoku                                            | ✅         | JavaScript, TypeScript |
 | 37  | Sudoku Solver                                           | ✅         | JavaScript, TypeScript |
+| 38  | Count and Say                                           | ✅         | JavaScript, TypeScript |
