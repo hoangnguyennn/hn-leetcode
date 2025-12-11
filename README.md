@@ -29,3 +29,4 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 37  | Sudoku Solver                                           | ✅         | JavaScript, TypeScript |
 | 38  | Count and Say                                           | ✅         | JavaScript, TypeScript |
 | 39  | Combination Sum                                         | ✅         | JavaScript, TypeScript |
+| 40  | Combination Sum II                                      | ✅         | JavaScript, TypeScript |
