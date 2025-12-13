@@ -30,4 +30,5 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 38  | Count and Say                                           | ✅         | JavaScript, TypeScript |
 | 39  | Combination Sum                                         | ✅         | JavaScript, TypeScript |
 | 40  | Combination Sum II                                      | ✅         | JavaScript, TypeScript |
+| 58  | Length of Last Word                                     | ✅         | JavaScript, TypeScript |
 | 66  | Plus One                                                | ✅         | JavaScript, TypeScript |
