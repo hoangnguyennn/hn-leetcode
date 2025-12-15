@@ -33,3 +33,4 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 58  | Length of Last Word                                     | ✅         | JavaScript, TypeScript |
 | 66  | Plus One                                                | ✅         | JavaScript, TypeScript |
 | 67  | Add Binary                                              | ✅         | JavaScript, TypeScript |
+| 69  | Sqrt(x)                                                 | ✅         | JavaScript, TypeScript |
