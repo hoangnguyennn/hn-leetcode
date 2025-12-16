@@ -17,6 +17,9 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 3   | Longest Substring Without Repeating Characters          | ✅         | JavaScript, TypeScript |
 | 4   | Median of Two Sorted Arrays                             | ✅         | JavaScript, TypeScript |
 | 5   | Longest Palindromic Substring                           | ✅         | JavaScript, TypeScript |
+| 7   | Reverse Integer                                         | ✅         | JavaScript, TypeScript |
+| 8   | String to Integer (atoi)                                | ✅         | JavaScript, TypeScript |
+| 9   | Palindrome Number                                       | ✅         | JavaScript, TypeScript |
 | 11  | Container With Most Water                               | ✅         | JavaScript, TypeScript |
 | 20  | Valid Parentheses                                       | ✅         | JavaScript, TypeScript |
 | 21  | Merge Two Sorted Lists                                  | ✅         | JavaScript, TypeScript |
@@ -34,3 +37,4 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 66  | Plus One                                                | ✅         | JavaScript, TypeScript |
 | 67  | Add Binary                                              | ✅         | JavaScript, TypeScript |
 | 69  | Sqrt(x)                                                 | ✅         | JavaScript, TypeScript |
+| 70  | Climbing Stairs                                         | ✅         | JavaScript, TypeScript |
