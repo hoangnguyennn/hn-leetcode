@@ -39,4 +39,5 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 67  | Add Binary                                              | ✅         | JavaScript, TypeScript |
 | 69  | Sqrt(x)                                                 | ✅         | JavaScript, TypeScript |
 | 70  | Climbing Stairs                                         | ✅         | JavaScript, TypeScript |
+| 94  | Binary Tree Inorder Traversal                           | ✅         | JavaScript, TypeScript |
 | 102 | Binary Tree Level Order Traversal                       | ✅         | JavaScript, TypeScript |
