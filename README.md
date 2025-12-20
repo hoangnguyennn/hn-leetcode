@@ -40,5 +40,6 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 69  | Sqrt(x)                                                 | ✅         | JavaScript, TypeScript |
 | 70  | Climbing Stairs                                         | ✅         | JavaScript, TypeScript |
 | 77  | Combinations                                            | ✅         | JavaScript, TypeScript |
+| 83  | Remove Duplicates from Sorted List                      | ✅         | JavaScript, TypeScript |
 | 94  | Binary Tree Inorder Traversal                           | ✅         | JavaScript, TypeScript |
 | 102 | Binary Tree Level Order Traversal                       | ✅         | JavaScript, TypeScript |
