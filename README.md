@@ -26,6 +26,7 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 21  | Merge Two Sorted Lists                                  | ✅         | JavaScript, TypeScript |
 | 26  | Remove Duplicates from Sorted Array                     | ✅         | JavaScript, TypeScript |
 | 27  | Remove Element                                          | ✅         | JavaScript, TypeScript |
+| 28  | Find the Index of the First Occurrence in a String      | ✅         | JavaScript, TypeScript |
 | 31  | Next Permutation                                        | ✅         | JavaScript, TypeScript |
 | 34  | Find First and Last Position of Element in Sorted Array | ✅         | JavaScript, TypeScript |
 | 35  | Search Insert Position                                  | ✅         | JavaScript, TypeScript |
