@@ -23,6 +23,7 @@ _Hãy bắt đầu từ những điều đơn giản nhất_
 | 11  | Container With Most Water                               | ✅         | JavaScript, TypeScript |
 | 14  | Longest Common Prefix                                   | ✅         | JavaScript, TypeScript |
 | 15  | 3Sum                                                    | ✅         | JavaScript, TypeScript |
+| 16  | 3Sum Closest                                            | ✅         | JavaScript, TypeScript |
 | 20  | Valid Parentheses                                       | ✅         | JavaScript, TypeScript |
 | 21  | Merge Two Sorted Lists                                  | ✅         | JavaScript, TypeScript |
 | 26  | Remove Duplicates from Sorted Array                     | ✅         | JavaScript, TypeScript |
